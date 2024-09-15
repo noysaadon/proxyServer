@@ -1,0 +1,1 @@
+KEY_PROXY = b'pokemon_proxy'
